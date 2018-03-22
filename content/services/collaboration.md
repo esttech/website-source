@@ -1,7 +1,6 @@
 ---
 Title: Promoting an open, more agile shared economy
 Img: collaboration.jpg
-Category: Services
 Order: 3
 Draft: false
 ---

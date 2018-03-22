@@ -1,7 +1,6 @@
 ---
 Title: Enabling new ways of working
 Img: community.jpg
-Category: Services
 Order: 2
 Draft: false
 ---

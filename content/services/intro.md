@@ -1,7 +1,6 @@
 ---
 Title: Our story
 Img: intro.jpg
-Category: Services
 Order: 1
 Draft: false
 ---
