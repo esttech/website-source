@@ -1,11 +1,9 @@
 <!-- Footer -->
 <footer>
-    <div class="container">
+    <div class="container footer-siteinfo">
         <div class="row">
             <div class="col-md-8">
-                <p class="copyright text-muted small">Copyright &copy; 2018, {{ .Title }}<br>
-                Content licensed under
-                <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+                <p class="copyright text-muted small">Ericsson Software Technology AB is a fully owned subsidiary of Telefonaktiebolaget LM Ericsson devoted to developing and contributing software as Open Source, Neither Ericsson Software Technology AB nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by Telefonaktiebolaget LM Ericsson or any of its other affiliates.</p>
             </div>
             <div class="col-md-4">
 		<p class="copyright text-muted small">Built with <a href="http://gohugo.io">Hugo</a>, and based on the
@@ -13,6 +11,11 @@
 		theme.</p>
             </div>
         </div>
+    </div>
+    <div class="footer-copyright text-center">
+        <p class="copyright text-muted small">Copyright &copy; 2018, {{ .Title }}
+        &mdash; Content licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
     </div>
 </footer>
 {{ partial "js.html" . }}
