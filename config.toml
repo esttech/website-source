@@ -4,7 +4,7 @@ title = "Ericsson Software Technology"
 disableKinds = ["sitemap"]
 
 [params]
-description = "Fostering open source, collaborative technology"
+  description = "Fostering open source, collaborative technology"
 
 [outputs]
   home = [ "HTML", "CSS" ]
