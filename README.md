@@ -34,21 +34,5 @@ Web Server is available at http://localhost:1313/
 
 ## Deployment
 
-When you're satisfied with the changes, generate the final static
-website with the command:
-
-```
-$ hugo
-```
-
-Then copy the static generated files for the website from the
-`public/` directory into the `esttech.github.io` repo. For example, if
-you've cloned both `website-source` and `esttech.github.io` into the
-same directory on your laptop, run:
-
-```
-$ cp -r public/* ../esttech.github.io/.
-```
-
-Commit your changes to both `website-source` and `esttech.github.io`, and
+When you're satisfied with the changes, commit them to git, and
 they'll be live on the site within a minute or two.
